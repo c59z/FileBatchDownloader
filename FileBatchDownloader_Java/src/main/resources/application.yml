@@ -1,0 +1,5 @@
+user:
+  filepath: D:/code/Project/MinProject/FileBatchDownloader/RootPath # RootDirPath
+
+server:
+  port: 7777
